@@ -1,0 +1,17 @@
+/*
+
+by shmoobalizer
+makes it dark lul.
+
+*/
+
+body {
+    background: #000;
+    filter: invert(100%) hue-rotate(180deg);
+}
+body img, .colorview-swatch::before {
+    filter: invert(100%) hue-rotate(180deg);
+}
+#header {
+    box-shadow: 0 0 3rem -1.2rem white;
+}

@@ -1,0 +1,30 @@
+/*
+
+by shmoobalizer
+removes ads, spam, and clutter from the Minecraft Wiki
+
+*/
+
+#top_leaderboard, .gpt-ad, .dm-gpt, #top_leaderboard iframe, .top-ads-container, #ds_cpp {
+    display: none!important;
+}
+div#siderail_minecraft_gamepedia {
+    display: none!important;
+}
+#content #siderail_minecraft_gamepedia, .page__right-rail {
+    display: none!important;
+}
+#bodyContent {
+    box-sizing: border-box;
+    float: left;
+    width: calc(100%)!important;
+}
+iframe[title="Advertisement"] {
+    display: none!important;
+}
+.ds_cpp.ds_cpp_width {
+    display: none;
+}
+.featured-video__wrapper {
+    display: none;
+}

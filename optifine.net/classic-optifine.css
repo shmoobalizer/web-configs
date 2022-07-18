@@ -1,0 +1,91 @@
+/*
+
+by shmoobalizer
+reverts the UI of Optifine's website to the one we know and love.
+
+*/
+
+.tableRoot {
+    margin: 0 auto;
+    width: 850px;
+    background: white;
+    border: 1px solid #808080;
+}
+
+.headerTitle A {
+    color: #6480FF;
+    text-decoration: none;
+}
+.headerTitle {
+    font-family: serif;
+    font-weight: bold;
+}
+.header {
+    background: #C8C8FF;
+}
+.headerNav {
+    background: #F0F0FF;
+}
+.headerNav A {
+    color: #6480FF;
+    background: #F0F0FF;
+    background: rgba(0,0,0,0.0);
+}
+A {
+    color: #6480FF;
+    background: #F0F0FF;
+    background: rgba(0,0,0,0.0);
+}
+.headerNav A:hover {
+    background: #F0F0FF;
+    background: rgba(0,0,0,0.0);
+    text-decoration: underline;
+}
+
+.footer {
+    background: #F0F0FF;
+}
+.footerText A {
+    color: #6480FF;
+}
+.footerText A:hover {
+    text-decoration: none;
+    background: #F0F0FF;
+    color: #6480FF;
+}
+
+.downloadLine .colDownload A, .downloadButton A {
+    font-weight: normal;
+    color: #6480FF;
+    background-color: #FFFFFF;
+    border: 0 solid #FFFFFF;
+    border: 0 solid rgba(0,0,0,0.0);
+}
+.downloadLine .colDownload A:hover, .downloadButton A {
+    font-weight: normal;
+    color: #6480FF;
+    background-color: #FFFFFF;
+    border: 0 solid #FFFFFF;
+    border: 0 solid rgba(0,0,0,0.0);
+}
+.downloadLineMain:first-child .colDownload A, .downloadButton A {
+    font-weight: bold;
+    color: #6480FF;
+    background-color: #F0F0FF;
+    border: 0 solid #F0F0FF;
+    border: 0 solid rgba(0,0,0,0.0);
+}
+.downloadLineMain:first-child .colDownload A:hover, .downloadButton A {
+    font-weight: bold;
+    color: #6480FF;
+    background-color: #F0F0FF;
+    border: 0 solid #F0F0FF;
+    border: 0 solid rgba(0,0,0,0.0);
+}
+.downloadLinePreview {
+    background: #FFFFFF;
+}
+.downloadLinePreview:first-child .colDownload A, .downloadButton A {
+    border: 0 solid #FFFFFF;
+    border: 0 solid rgba(0,0,0,0.0);
+}

@@ -1,0 +1,10 @@
+/*
+
+by shmoobalizer
+removes ads.
+
+*/
+
+#med_rect_atf2, #leaderboard_atf2, .contain-ad, #ad_unit, #ultra_wide, .sweet, #responsive728-wrap {
+    display: none!important;
+}

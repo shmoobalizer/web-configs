@@ -1,0 +1,19 @@
+/*
+
+by shmoobalizer
+reverts some elements to their previous looks. Removes weird darkmode textures.
+
+*/
+
+:root {
+    --bg-navbar: #79553a url(/images/layout/themes/modern/nav_bg.png) repeat-x;
+    --body-bg: #472c17 url(/images/layout/themes/modern/background.png) repeat 50% 0;
+}
+[data-theme=dark] {
+    --bg-navbar: #79553a url(/images/layout/themes/modern/nav_bg.png) repeat-x;
+    --header-bg: #161e2b url(/images/layout/themes/modern/header_dark.png) repeat-x 50% 0;
+    --body-bg: #472c17 url(/images/layout/themes/modern/background.png) repeat 50% 0;
+}
+#profile-header #avatar, .avatar_icon, .avatar, .activity_icon  {
+    border-radius: 5px!important;
+}

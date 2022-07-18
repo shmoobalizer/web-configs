@@ -1,0 +1,41 @@
+/*
+
+by shmoobalizer
+removes ads, spam, and clutter.
+
+*/
+
+/*** HOME ***/
+/* Main Cancer */
+.x0hiXHicn7r3BG9m1FJH4._23q1waDr4n_2fR5A7zcZzb, 
+#COIN_PURCHASE_DROPDOWN_ID, 
+._1b1Jalg2nxA_Z-BjKXRfAV, 
+._3RPJ8hHnfFohktLZca18J6, 
+.avKlJzxZU3brq4nAX0_i1._1G4yU68P50vRZ4USXfaceV, 
+._3RPJ8hHnfFohktLZca18J6 {
+    display: none;
+}
+/* Remain Lines */
+._1G4yU68P50vRZ4USXfaceV[fill="var(--newCommunityTheme-widgetColors-sidebarWidgetTextColor)"] {
+    display: none;
+}
+
+/*** General ***/
+/* Post Ad */
+.promotedlink {
+    display: none;
+}
+/* Award Button */
+._10K5i7NW6qcm-UoCtpB3aK.YszYBnnIoNY8pZ6UwCivd._3yh2bniLq7bYr4BaiXowdO._1EWxiIupuIjiExPQeK4Kud._28vEaVlLWeas1CDiLuTCap {
+     display: none;
+} /* Comment (Award) Button(s)*/
+/*button ._374Hkkigy4E4srsI2WktEd._2hr3tRWszeMRQ0u_Whs7t8._14hLFU5cIJCyxH9DSgsCov {
+     display: none;
+}*/
+
+/*** Search ***/
+/* Search Trending */
+._20OHBqoDD71_8fv7tuG6u6.cuK0QQebBI_tpWwN_YN9M.XEkFoehJNxIH9Wlr5Ilzd._2H51id1RX9dGNrtrAIOMGK, 
+._1JNAu7U5gWAkRoykwfUWhY._3HPgggOIyY0x9kiADxwwaj._2Uets9AVOC4pygPHGHCAAM {
+    display: none;
+}
